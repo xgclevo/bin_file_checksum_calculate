@@ -1,0 +1,9 @@
+E:\MyProject\BinFileChecksumCalculate\bin\Debug\BinFileChecksumCalculate.exe.config
+E:\MyProject\BinFileChecksumCalculate\bin\Debug\BinFileChecksumCalculate.exe
+E:\MyProject\BinFileChecksumCalculate\bin\Debug\BinFileChecksumCalculate.pdb
+E:\MyProject\BinFileChecksumCalculate\obj\Debug\FileChecksumCalculate.Form1.resources
+E:\MyProject\BinFileChecksumCalculate\obj\Debug\BinFileChecksumCalculate.Properties.Resources.resources
+E:\MyProject\BinFileChecksumCalculate\obj\Debug\BinFileChecksumCalculate.csproj.GenerateResource.cache
+E:\MyProject\BinFileChecksumCalculate\obj\Debug\BinFileChecksumCalculate.csproj.CoreCompileInputs.cache
+E:\MyProject\BinFileChecksumCalculate\obj\Debug\BinFileChecksumCalculate.exe
+E:\MyProject\BinFileChecksumCalculate\obj\Debug\BinFileChecksumCalculate.pdb
